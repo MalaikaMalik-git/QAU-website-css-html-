@@ -31,7 +31,3 @@ A responsive, single-page website built with **HTML5 + modern CSS** (Flexbox & G
 - **Google Maps Embed** for location
 
 
----
-
-## 📁 Project Structure
-
